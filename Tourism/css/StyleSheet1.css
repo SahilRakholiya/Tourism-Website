@@ -1,0 +1,49 @@
+﻿/*#pnameTextBox, #cnumberTextBox, #emailTextBox {
+    width: 100%;
+    padding: 5px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: #7ab8e6;
+    border: 10px solid;
+    box-shadow: 5px 5px 5px #888888;
+    border-radius: 25px;
+    font-family: Trebuchet MS;
+    border: 1px solid #CCC;
+    margin-bottom: 5px;
+}
+
+#form1{
+    text-align:center;
+    border:5px solid ;
+    background-color:lightcoral ;
+    
+    
+}*/
+
+
+
+#pnameTextBox, #cnumberTextBox, #emailTextBox {
+    width: 100%;
+    padding: 5px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: #7ab8e6;
+    border: 10px solid;
+    box-shadow: 5px 5px 5px #888888;
+    border-radius: 25px;
+    font-family: Trebuchet MS;
+    border: 1px solid #CCC;
+    margin-bottom: 5px;
+}
+
+#form1 {
+    text-align: center;
+    border: 5px solid;
+    background-color: lightcoral;
+    /* padding:10%;
+    margin:30%;*/
+}
+
+#main {
+    margin: auto;
+}
